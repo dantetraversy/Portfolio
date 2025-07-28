@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="3" stdDeviation="3" flood-color="#999"/>
+    </filter>
+  </defs>
+  <text x="50%" y="55%" font-size="240" font-family="Helvetica, Arial, sans-serif"
+        text-anchor="middle" dominant-baseline="middle" letter-spacing="-14" filter="url(#shadow)">
+    <tspan fill="#1e66e1">e</tspan><tspan fill="#000000">x</tspan>
+  </text>
+</svg>
