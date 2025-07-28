@@ -1,6 +1,6 @@
 # Web Developer Portfolio - Using HTML, CSS, Bootstrap & JS
 
-> See live demo: Feel free to use but **credit appreciated** and a **⭐** to repo ;)
+> See live demo:[https://dantetraversy.github.io/Portfolio/](https://dantetraversy.github.io/Portfolio/) Feel free to use but **credit appreciated** and a **⭐** to repo ;)
 
 ![Developer Portoflio](https://github.com/dantetraversy/Portfolio/blob/master/Developer%20Portolio%20Website.png)
 
@@ -30,7 +30,7 @@ Hi there! I'm Saitou, and this is my portfolio website code built with HTML, CSS
 
 ## **Want to see it live? 👀**
 
-* Visit: [https://dantetraversy.com/](https://dantetraversy.com/)
+* Visit: [https://dantetraversy.github.io/Portfolio/](https://dantetraversy.github.io/Portfolio/)
 * Or, explore the code on GitHub: [https://github.com/dantetraversy/Portfolio](https://github.com/dantetraversy/Portfolio/)
 
 ## **Why This Web Developer Portfolio Stands Out**
